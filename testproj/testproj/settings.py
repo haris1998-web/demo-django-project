@@ -122,4 +122,6 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-NEW_VARIABLE = "ABC1"
+NEW_VARIABLE = "ABC"
+
+NEW_VARIABLE_2 = "DEF"
